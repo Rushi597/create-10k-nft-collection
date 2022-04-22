@@ -17,7 +17,6 @@ const layerConfigurations = [
     layersOrder: [
       { name: "Background" },
       { name: "Face" },
-      { name: "Logo" },
     ],
   },
 ];
